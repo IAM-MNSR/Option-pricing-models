@@ -39,7 +39,7 @@ If anyone want to do some improvements to it, here is a thing you can do:
   - I will also do other models in the future.
 
 
-🔧 Dependencies:
+ Dependencies:
   - yfinance: To fetch current asset prices.
   - numpy: For numerical operations.
   - matplotlib: For heatmap visualization.
