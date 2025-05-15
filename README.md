@@ -37,3 +37,9 @@ If anyone want to do some improvements to it, here is a thing you can do:
   - But it isn't completed yet, the flaw here is in sidebar of the app as well as the values assigning method (The heatmap is associated with previous values than that of the stock)
   - So, if you want to improve something, do it. Make it in a way that the model takes stock value directly right when we specify it, rather than manually adjusting them from seeing below and writing above.
   - I will also do other models in the future.
+
+
+🔧 Dependencies:
+  - yfinance: To fetch current asset prices.
+  - numpy: For numerical operations.
+  - matplotlib: For heatmap visualization.
