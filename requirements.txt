@@ -6,3 +6,4 @@ scipy
 yfinance
 streamlit-option-menu
 seaborn
+plotly
